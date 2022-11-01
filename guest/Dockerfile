@@ -82,6 +82,7 @@ RUN	apt-get update -y \
 		dnsmap \
 		hydra \
 		irssi \
+		masscan \
 		nbtscan \
 		netdiscover \
 		nmap \
